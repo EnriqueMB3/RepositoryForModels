@@ -1,10 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using WebApi_CMR.Models;
-
-namespace WebApi_CMR.Repositories
 {
     public class Repository<T> where T : class
     {
